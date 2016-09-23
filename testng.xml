@@ -1,0 +1,8 @@
+<suite name="Suite One" verbose="1">
+ <test name="Test One" >
+ <parameter name ="browserType" value="firefox"/>
+  <classes>
+   <class name="TestPackage.FrameWork_test" />
+   </classes>
+ </test>
+</suite>
